@@ -1,0 +1,7 @@
+1. Define HTML Components
+  - Components list up
+  - Define attributes of components
+
+2. Drag and drop function development
+
+3. Eclipse plug-in development
